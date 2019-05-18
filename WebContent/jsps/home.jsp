@@ -20,8 +20,7 @@
 		Mithun Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House,
 		Bangalore, Karnataka, India.
-		+91-9980923226,
-		say2mohanreddy@gmail.com
+		+91-9980923226.
 	</span>
 </div>
 <hr>
